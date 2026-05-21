@@ -1,5 +1,6 @@
 {
   "name": "mage-demo-repo",
+    "build": "node build.js",
   "version": "1.0.0",
   "description": "Dummy repo for AI self-healing CI/CD demo",
   "main": "index.js",
