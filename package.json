@@ -4,8 +4,8 @@
   "description": "Dummy repo for AI self-healing CI/CD demo",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
     "start": "node index.js",
+    "test": "jest",
     "build": "node index.js"
   },
   "dependencies": {
